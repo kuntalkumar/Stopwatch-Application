@@ -43,7 +43,9 @@ const Stopwatch = () => {
         setReading(0)
     }
   return (
-    <div className='parent'>
+
+    <div className='outerDiv'>
+ <div className='parent'>
       <h1>Stopwatch App</h1>
         <br />
       <h2>Timer : {reading}</h2>
@@ -53,6 +55,8 @@ const Stopwatch = () => {
       <button disabled={reading===0} onClick={handleReset} className='btn'>Reset</button>
 
     </div>
+    </div>
+   
   )
 }
 
