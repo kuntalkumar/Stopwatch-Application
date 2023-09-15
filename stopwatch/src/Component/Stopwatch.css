@@ -1,0 +1,17 @@
+.btn{
+    background-color: red;
+    height: 30px;
+    width: 70px;
+    margin: 5px;
+}
+.parent{
+    color: white;
+    width:25%;
+    margin: auto;
+    background-color: blue;
+    padding: 20px;
+    
+
+}
+
+
