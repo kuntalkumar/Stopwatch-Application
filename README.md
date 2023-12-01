@@ -1,4 +1,4 @@
 # Stopwatch-Application
 
-
-I have building this application stopwatch by using react , css  
+This is my solo project 
+Building this application stopwatch by using react , css  
